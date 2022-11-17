@@ -1,0 +1,29 @@
+https://www.guru99.com/what-is-api.html
+
+https://www.guru99.com/difference-http-vs-https.html
+
+https://www.guru99.com/api-testing.html
+
+https://restfulapi.net/http-status-codes/
+
+
+
+///// sawger API
+https://petstore.swagger.io/
+
+
+
+_______________________________
+
+API-REVIEW-QUESTIONs-
+
+1. Wht is api? with example
+2. what is web services ?
+3. Rest vs soap api diffrence ?
+4. explain about HTTP?
+5. Difference between HTTP and HTTPS ?
+6. what is post man ?
+7. global vs environment variable difference
+8. diff between postman and swagger
+9. diff b/w web service and api
+10. wht is environemnt variable and global variable ?

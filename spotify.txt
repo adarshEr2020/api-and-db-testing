@@ -1,0 +1,7 @@
+Spotify devloper >
+----------------
+Access token -> Bearer BQAAq4nJA-p5uElSHQz031qfI33ffjxVY0MLuLF5IRwaEstfhtY-VK6Lv7cAzodawaw9K-pf2zZCdG0lWojkw2v2VWEol1yhWeTHHyoDYV4an_t4jdcmjbolBVKVAxS8q1GZ52MeNnOhu8RhQGjvmGi3VgShki-RYz2V_QlqvFmGliRflz4ZfJRgYrRcmJeMUFPY-ClUCQseSv7qFcv3luOwKNhFc7PNwdsJS9z7tq8Oy-hongFMgRNyr_sPF6-HM7Mg1s5UcKAyoFOlmhK-gg
+
+userId-31qs7ymf3zbq46f4zv5nrzhec7mu 
+Playlist id- 4Zb6mQCUzILVBiOX2Eobtr	
+track id = 31qs7ymf3zbq46f4zv5nrzhec7mu

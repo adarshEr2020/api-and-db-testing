@@ -1,0 +1,63 @@
+{
+	"id": "18d8bed1-86e5-4b21-843c-87fd7caa597e",
+	"values": [
+		{
+			"key": "global_auth",
+			"value": "Bearer BQBbc2e37KxBMoYLs8UsSyRtDZ3Fx-crWUWZzdfW3LAsQOPLMIx-fjyNghVD580nv8uHLKb65p2Bj5LurrRD-VVKtCpgGhVHiYJQd9Qs6JAYL5-NCTNUNZttMAYeIU6pdW34XhifZo62TkEoWKJNapAbQAcPu6-0uazMnOf1vQFa-F5JuV1beB6Hg71-Mq07WIFHvpe7Ju3QkQggfwqroVi7CsluV0B7Tjuy5rVeZAu2UfMpRQdLKNwnn_JbTG3n-k1Lkw76UnM",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "global_userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "album_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "artist_id",
+			"value": "0TnOYISbd1XYRBk9myaseg",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "track_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "episode_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "show_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "playlist_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_Id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2022-11-10T15:25:23.497Z",
+	"_postman_exported_using": "Postman/10.2.0"
+}
